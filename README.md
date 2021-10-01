@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![SCREEN SHOT OF THE WEBSITE I MADE](images\SS.png)
+![SCREEN SHOT OF THE WEBSITE I MADE](images/SS.png)
 
 ### Links
 
