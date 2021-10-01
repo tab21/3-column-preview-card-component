@@ -17,14 +17,17 @@ h1{
 	font-family: 'Big Shoulders Display', cursive;
 	font-weight: 700;
 	color: hsl(0, 0%, 95%);
+	margin:2rem 3.5rem ;
 }
 p{
 	color: hsla(0, 0%, 100%, 0.75);
 	font-family: 'Lexend Deca', sans-serif;
 	font-weight: 400;
-}
-h1,p,img{
+	line-height: 1.5;
 	margin:2rem 3.5rem ;
+}
+img{
+	margin:2rem 3.5rem 0 ;	
 }
 .main{
 	min-height: 510px;
@@ -38,6 +41,7 @@ h1,p,img{
     flex: 0 0 33.33333%;
     max-width: 33.33333%;
     width: 100%;
+	padding-bottom: 0;
 }
 
 .sedans{
@@ -57,7 +61,7 @@ h1,p,img{
 	border-radius: 2rem;
 	padding: .5rem 2rem ;
 	border:solid hsl(0, 0%, 95%);
-	margin:5rem 3rem 3rem ;
+	margin:3rem 3rem ;
 	text-align: center;
 	font-family: 'Lexend Deca', sans-serif;
 	font-weight: 400;
@@ -81,6 +85,6 @@ h1,p,img{
 }
 }
 
-.attribution, .footer{
+.attribution, footer{
 	text-align: center;
 }
