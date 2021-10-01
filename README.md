@@ -1,6 +1,7 @@
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+In the design folder is the Design of the website we need to make and style-guide.md has the style of the website we require.
 
 ## Table of contents
 
@@ -24,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![SCREEN SHOT OF THE WEBSITE I MADE](images\SS.png)
+![SCREEN SHOT OF THE WEBSITE I MADE](images/SS.png)
 
 ### Links
 
@@ -44,7 +45,7 @@ I learned the css flexbox which i still need to work on.It also made me work on 
 
 ### Continued development
 
-I still need to work on my diplay and positioning skills.
+I still need to work on my display and positioning skills.
 
 ## Author
 
